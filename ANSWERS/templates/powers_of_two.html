@@ -1,0 +1,16 @@
+{% extends "bootstrap/base.html" %}
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <meta charset="UTF-8">
+        <title>{{ title }}</title> 
+    </head>
+    <body>
+    {% block content %}
+        <h1>{{ title }}</h1>
+        {% for exponent, value in powers_of_two %}
+            2<sup>{{ exponent }}</sup> {{ value }}<br/>
+        {% endfor %}
+    {% endblock %}
+    </body>
+</html>

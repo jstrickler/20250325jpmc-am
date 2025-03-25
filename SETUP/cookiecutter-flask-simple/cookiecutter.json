@@ -1,0 +1,12 @@
+{
+    "app_name": "App Name (can have spaces)",
+    "app_slug": "{{ cookiecutter.app_name.lower().replace(' ','').replace('-','_') }}",
+    "app_module": "{{ cookiecutter.app_slug }}",
+    "app_description": "Short Description of the App", 
+    "author_name": "Author Name",
+    "author_email": "noone@nowhere.com",
+    "author_url": "Author URL",
+    "copyright_year": "2025",
+    "readme_format": ["md", "rst"]
+}
+

@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/hamlib.py
+src/hamlib.egg-info/PKG-INFO
+src/hamlib.egg-info/SOURCES.txt
+src/hamlib.egg-info/dependency_links.txt
+src/hamlib.egg-info/top_level.txt
+tests/test_hamlib.py

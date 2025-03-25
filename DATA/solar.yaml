@@ -1,0 +1,67 @@
+star:
+    Sun
+inner:
+      - name: Mercury
+        moons:
+          - None
+      - name: Venus
+        moons:
+          - None
+      - name: Earth
+        moons:
+          - Moon
+      - name: Mars
+        moons:
+          - Deimos
+          - Phobos
+          - Metis
+
+asteroids:
+      - Ceres
+      - Pallas
+      - Juno
+      - Vesta
+
+outer:
+      - name: Jupiter
+        moons:
+            - Adrastea
+            - Amalthea
+            - Thebe
+            - Io
+            - Europa
+            - Gannymede
+            - Callista
+            - Themisto
+            - Himalia
+            - Lysithea
+            - Elara
+      - name: Saturn
+        moons:
+            - Rhea
+            - Hyperion
+            - Titan
+            - Iapetus
+            - Mimas
+            - Enceladus
+            - Tethys
+            - Dione
+            - Enceladus
+      - name: Uranus
+        moons:
+            - Ariel
+            - Umbriel
+            - Miranda
+            - Titania
+            - Oberon
+      - name: Neptune
+        moons:
+            - Triton
+            - Nereid
+            - Proteus
+plutoid:
+      - name: Pluto
+        moons:
+            - Charon
+            - Hydra
+            - Nix

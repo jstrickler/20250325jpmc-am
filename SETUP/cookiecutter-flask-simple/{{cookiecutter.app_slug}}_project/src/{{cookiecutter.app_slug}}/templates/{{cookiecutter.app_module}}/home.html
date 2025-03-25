@@ -1,0 +1,10 @@
+{% raw %}{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}{% endraw %}{{ cookiecutter.app_name }} Home{% raw %}{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+<div>Welcome to {% endraw %}{{ cookiecutter.app_name }}{% raw %}</div>
+<div><a href="{{ url_for('{% endraw %}{{ cookiecutter.app_module }}{% raw %}.other') }}">Other Page</a></div>
+{% endblock %}{% endraw %}

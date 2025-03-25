@@ -1,0 +1,604 @@
+
+{
+    "presidents":[
+
+    {
+        "termnum":1,
+        "lastname":"Washington",
+        "firstname":"George",
+        "dstart":"1789-04-30",
+        "dend":"1797-03-04",
+        "birthplace":"Westmoreland County",
+        "birthstate":"Virginia",
+        "dbirth":"1732-02-22",
+        "ddeath":"1799-12-14",
+        "party":"no party"
+    },
+
+    {
+        "termnum":2,
+        "lastname":"Adams",
+        "firstname":"John",
+        "dstart":"1797-03-04",
+        "dend":"1801-03-04",
+        "birthplace":"Braintree, Norfolk",
+        "birthstate":"Massachusetts",
+        "dbirth":"1735-10-30",
+        "ddeath":"1826-07-04",
+        "party":"Federalist"
+    },
+
+    {
+        "termnum":3,
+        "lastname":"Jefferson",
+        "firstname":"Thomas",
+        "dstart":"1801-03-04",
+        "dend":"1809-03-04",
+        "birthplace":"Albermarle County",
+        "birthstate":"Virginia",
+        "dbirth":"1743-04-13",
+        "ddeath":"1826-07-04",
+        "party":"Democratic - Republican"
+    },
+
+    {
+        "termnum":4,
+        "lastname":"Madison",
+        "firstname":"James",
+        "dstart":"1809-03-04",
+        "dend":"1817-03-04",
+        "birthplace":"Port Conway",
+        "birthstate":"Virginia",
+        "dbirth":"1751-03-16",
+        "ddeath":"1836-06-28",
+        "party":"Democratic - Republican"
+    },
+
+    {
+        "termnum":5,
+        "lastname":"Monroe",
+        "firstname":"James",
+        "dstart":"1817-03-04",
+        "dend":"1825-03-04",
+        "birthplace":"Westmoreland County",
+        "birthstate":"Virginia",
+        "dbirth":"1758-04-28",
+        "ddeath":"1831-07-04",
+        "party":"Democratic - Republican"
+    },
+
+    {
+        "termnum":6,
+        "lastname":"Adams",
+        "firstname":"John Quincy",
+        "dstart":"1825-03-04",
+        "dend":"1829-03-04",
+        "birthplace":"Braintree, Norfolk",
+        "birthstate":"Massachusetts",
+        "dbirth":"1767-07-11",
+        "ddeath":"1848-02-23",
+        "party":"Democratic - Republican"
+    },
+
+    {
+        "termnum":7,
+        "lastname":"Jackson",
+        "firstname":"Andrew",
+        "dstart":"1829-03-04",
+        "dend":"1837-03-04",
+        "birthplace":"Waxhaw",
+        "birthstate":"South Carolina",
+        "dbirth":"1767-03-15",
+        "ddeath":"1845-06-08",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":8,
+        "lastname":"Van Buren",
+        "firstname":"Martin",
+        "dstart":"1837-03-04",
+        "dend":"1841-03-04",
+        "birthplace":"Kinderhook",
+        "birthstate":"New York",
+        "dbirth":"1782-12-05",
+        "ddeath":"1862-07-24",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":9,
+        "lastname":"Harrison",
+        "firstname":"William Henry",
+        "dstart":"1841-03-04",
+        "dend":"1841-04-04",
+        "birthplace":"Berkeley",
+        "birthstate":"Virginia",
+        "dbirth":"1773-02-09",
+        "ddeath":"1841-04-04",
+        "party":"Whig"
+    },
+
+    {
+        "termnum":10,
+        "lastname":"Tyler",
+        "firstname":"John",
+        "dstart":"1841-04-04",
+        "dend":"1845-03-04",
+        "birthplace":"Charles City County",
+        "birthstate":"Virginia",
+        "dbirth":"1790-03-29",
+        "ddeath":"1862-01-18",
+        "party":"Whig"
+    },
+
+    {
+        "termnum":11,
+        "lastname":"Polk",
+        "firstname":"James Knox",
+        "dstart":"1845-03-04",
+        "dend":"1849-03-03",
+        "birthplace":"Mecklenburg County",
+        "birthstate":"North Carolina",
+        "dbirth":"1795-11-02",
+        "ddeath":"1849-06-15",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":12,
+        "lastname":"Taylor",
+        "firstname":"Zachary",
+        "dstart":"1849-03-05",
+        "dend":"1850-07-09",
+        "birthplace":"Orange County",
+        "birthstate":"Virginia",
+        "dbirth":"1784-11-24",
+        "ddeath":"1850-07-09",
+        "party":"Whig"
+    },
+
+    {
+        "termnum":13,
+        "lastname":"Fillmore",
+        "firstname":"Millard",
+        "dstart":"1850-07-09",
+        "dend":"1853-03-04",
+        "birthplace":"Cayuga County",
+        "birthstate":"New York",
+        "dbirth":"1800-01-07",
+        "ddeath":"1874-03-08",
+        "party":"Whig"
+    },
+
+    {
+        "termnum":14,
+        "lastname":"Pierce",
+        "firstname":"Franklin",
+        "dstart":"1853-03-04",
+        "dend":"1857-03-04",
+        "birthplace":"Hillsboro",
+        "birthstate":"New Hampshire",
+        "dbirth":"1804-11-23",
+        "ddeath":"1869-10-08",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":15,
+        "lastname":"Buchanan",
+        "firstname":"James",
+        "dstart":"1857-03-04",
+        "dend":"1861-03-04",
+        "birthplace":"Cove Gap",
+        "birthstate":"Pennsylvania",
+        "dbirth":"1791-04-23",
+        "ddeath":"1868-06-01",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":16,
+        "lastname":"Lincoln",
+        "firstname":"Abraham",
+        "dstart":"1861-03-04",
+        "dend":"1865-04-15",
+        "birthplace":"Hodgenville, Hardin County",
+        "birthstate":"Kentucky",
+        "dbirth":"1809-02-12",
+        "ddeath":"1865-04-15",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":17,
+        "lastname":"Johnson",
+        "firstname":"Andrew",
+        "dstart":"1865-04-15",
+        "dend":"1869-03-04",
+        "birthplace":"Raleigh",
+        "birthstate":"North Carolina",
+        "dbirth":"1808-12-29",
+        "ddeath":"1875-07-31",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":18,
+        "lastname":"Grant",
+        "firstname":"Ulysses Simpson",
+        "dstart":"1869-03-04",
+        "dend":"1877-03-04",
+        "birthplace":"Point Pleasant",
+        "birthstate":"Ohio",
+        "dbirth":"1822-04-27",
+        "ddeath":"1885-07-23",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":19,
+        "lastname":"Hayes",
+        "firstname":"Rutherford Birchard",
+        "dstart":"1877-03-04",
+        "dend":"1881-03-04",
+        "birthplace":"Delaware",
+        "birthstate":"Ohio",
+        "dbirth":"1822-10-04",
+        "ddeath":"1893-01-17",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":20,
+        "lastname":"Garfield",
+        "firstname":"James Abram",
+        "dstart":"1881-03-04",
+        "dend":"1881-09-19",
+        "birthplace":"Orange, Cuyahoga County",
+        "birthstate":"Ohio",
+        "dbirth":"1831-11-19",
+        "ddeath":"1881-09-19",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":21,
+        "lastname":"Arthur",
+        "firstname":"Chester Alan",
+        "dstart":"1881-09-20",
+        "dend":"1885-03-04",
+        "birthplace":"Fairfield",
+        "birthstate":"Vermont",
+        "dbirth":"1829-10-05",
+        "ddeath":"1886-11-18",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":22,
+        "lastname":"Cleveland",
+        "firstname":"Grover",
+        "dstart":"1885-03-04",
+        "dend":"1889-03-04",
+        "birthplace":"Caldwell",
+        "birthstate":"New Jersey",
+        "dbirth":"1837-03-18",
+        "ddeath":"1908-06-24",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":23,
+        "lastname":"Harrison",
+        "firstname":"Benjamin",
+        "dstart":"1889-03-04",
+        "dend":"1893-03-04",
+        "birthplace":"North Bend",
+        "birthstate":"Ohio",
+        "dbirth":"1833-08-20",
+        "ddeath":"1901-03-13",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":24,
+        "lastname":"Cleveland",
+        "firstname":"Grover",
+        "dstart":"1893-03-04",
+        "dend":"1897-03-04",
+        "birthplace":"Caldwell",
+        "birthstate":"New Jersey",
+        "dbirth":"1837-03-18",
+        "ddeath":"1908-06-24",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":25,
+        "lastname":"McKinley",
+        "firstname":"William",
+        "dstart":"1897-03-04",
+        "dend":"1901-09-14",
+        "birthplace":"Niles",
+        "birthstate":"Ohio",
+        "dbirth":"1843-01-29",
+        "ddeath":"1901-09-14",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":26,
+        "lastname":"Roosevelt",
+        "firstname":"Theodore",
+        "dstart":"1901-09-14",
+        "dend":"1909-03-04",
+        "birthplace":"New York City",
+        "birthstate":"New York",
+        "dbirth":"1858-10-27",
+        "ddeath":"1919-01-06",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":27,
+        "lastname":"Taft",
+        "firstname":"William Howard",
+        "dstart":"1909-03-04",
+        "dend":"1913-03-04",
+        "birthplace":"Cincinnati",
+        "birthstate":"Ohio",
+        "dbirth":"1857-09-15",
+        "ddeath":"1930-03-08",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":28,
+        "lastname":"Wilson",
+        "firstname":"Woodrow",
+        "dstart":"1913-03-04",
+        "dend":"1921-03-04",
+        "birthplace":"Staunton",
+        "birthstate":"Virginia",
+        "dbirth":"1856-12-28",
+        "ddeath":"1924-02-03",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":29,
+        "lastname":"Harding",
+        "firstname":"Warren Gamaliel",
+        "dstart":"1921-03-04",
+        "dend":"1923-08-02",
+        "birthplace":"Blooming Grove",
+        "birthstate":"Ohio",
+        "dbirth":"1865-11-02",
+        "ddeath":"1923-08-02",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":30,
+        "lastname":"Coolidge",
+        "firstname":"Calvin",
+        "dstart":"1923-08-03",
+        "dend":"1929-03-04",
+        "birthplace":"Plymouth",
+        "birthstate":"Vermont",
+        "dbirth":"1872-07-04",
+        "ddeath":"1933-01-05",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":31,
+        "lastname":"Hoover",
+        "firstname":"Herbert Clark",
+        "dstart":"1929-03-04",
+        "dend":"1933-03-04",
+        "birthplace":"West Branch",
+        "birthstate":"Iowa",
+        "dbirth":"1874-08-10",
+        "ddeath":"1964-10-20",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":32,
+        "lastname":"Roosevelt",
+        "firstname":"Franklin Delano",
+        "dstart":"1933-03-04",
+        "dend":"1945-04-12",
+        "birthplace":"Hyde Park",
+        "birthstate":"New York",
+        "dbirth":"1882-01-30",
+        "ddeath":"1945-04-12",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":33,
+        "lastname":"Truman",
+        "firstname":"Harry S.",
+        "dstart":"1945-04-12",
+        "dend":"1953-01-20",
+        "birthplace":"Lamar",
+        "birthstate":"Missouri",
+        "dbirth":"1884-05-08",
+        "ddeath":"1972-12-26",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":34,
+        "lastname":"Eisenhower",
+        "firstname":"Dwight David",
+        "dstart":"1953-01-20",
+        "dend":"1961-01-20",
+        "birthplace":"Denison",
+        "birthstate":"Texas",
+        "dbirth":"1890-10-14",
+        "ddeath":"1969-03-28",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":35,
+        "lastname":"Kennedy",
+        "firstname":"John Fitzgerald",
+        "dstart":"1961-01-20",
+        "dend":"1963-11-22",
+        "birthplace":"Brookline",
+        "birthstate":"Massachusetts",
+        "dbirth":"1917-05-29",
+        "ddeath":"1963-11-22",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":36,
+        "lastname":"Johnson",
+        "firstname":"Lyndon Baines",
+        "dstart":"1963-11-22",
+        "dend":"1969-01-20",
+        "birthplace":"near Stonewall",
+        "birthstate":"Texas",
+        "dbirth":"1908-08-27",
+        "ddeath":"1973-01-22",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":37,
+        "lastname":"Nixon",
+        "firstname":"Richard Milhous",
+        "dstart":"1969-01-20",
+        "dend":"1974-08-09",
+        "birthplace":"Yorba Linda",
+        "birthstate":"California",
+        "dbirth":"1913-01-09",
+        "ddeath":"1994-04-22",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":38,
+        "lastname":"Ford",
+        "firstname":"Gerald Rudolph",
+        "dstart":"1974-08-09",
+        "dend":"1977-01-20",
+        "birthplace":"Omaha",
+        "birthstate":"Nebraska",
+        "dbirth":"1913-07-14",
+        "ddeath":"2006-12-26",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":39,
+        "lastname":"Carter",
+        "firstname":"James Earl 'Jimmy'",
+        "dstart":"1977-01-20",
+        "dend":"1981-01-20",
+        "birthplace":"Plains",
+        "birthstate":"Georgia",
+        "dbirth":"1924-10-01",
+        "ddeath":"None",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":40,
+        "lastname":"Reagan",
+        "firstname":"Ronald Wilson",
+        "dstart":"1981-01-20",
+        "dend":"1989-01-20",
+        "birthplace":"Tampico",
+        "birthstate":"Illinois",
+        "dbirth":"1911-02-06",
+        "ddeath":"2004-06-05",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":41,
+        "lastname":"Bush",
+        "firstname":"George Herbert Walker",
+        "dstart":"1989-01-20",
+        "dend":"1993-01-20",
+        "birthplace":"Milton",
+        "birthstate":"Massachusetts",
+        "dbirth":"1924-06-12",
+        "ddeath":"2018-11-30",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":42,
+        "lastname":"Clinton",
+        "firstname":"William Jefferson 'Bill'",
+        "dstart":"1993-01-20",
+        "dend":"2001-01-20",
+        "birthplace":"Hope",
+        "birthstate":"Arkansas",
+        "dbirth":"1946-08-19",
+        "ddeath":"None",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":43,
+        "lastname":"Bush",
+        "firstname":"George Walker",
+        "dstart":"2001-01-20",
+        "dend":"2009-01-20",
+        "birthplace":"New Haven",
+        "birthstate":"Connecticut",
+        "dbirth":"1946-07-06",
+        "ddeath":"None",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":44,
+        "lastname":"Obama",
+        "firstname":"Barack Hussein",
+        "dstart":"2009-01-20",
+        "dend":"2017-01-20",
+        "birthplace":"Honolulu",
+        "birthstate":"Hawaii",
+        "dbirth":"1961-08-04",
+        "ddeath":"None",
+        "party":"Democratic"
+    },
+
+    {
+        "termnum":45,
+        "lastname":"Trump",
+        "firstname":"Donald J",
+        "dstart":"2017-01-20",
+        "dend":"2021-01-20",
+        "birthplace":"Queens, NYC",
+        "birthstate":"New York",
+        "dbirth":"1946-06-14",
+        "ddeath":"None",
+        "party":"Republican"
+    },
+
+    {
+        "termnum":46,
+        "lastname":"Biden",
+        "firstname":"Joseph Robinette",
+        "dstart":"2021-01-20",
+        "dend":"None",
+        "birthplace":"Scranton",
+        "birthstate":"Pennsylvania",
+        "dbirth":"1942-11-10",
+        "ddeath":"None",
+        "party":"Democratic"
+    }
+
+    ]
+}

@@ -1,0 +1,470 @@
+- term: 1
+  lastname: Washington
+  firstname: George
+  birthdate: 1732-02-22
+  deathdate: 1799-12-14
+  birthplace: Westmoreland County
+  birthstate: Virginia
+  termstart: 1789-04-30
+  termend: 1797-03-04
+  party: None
+- term: 2
+  lastname: Adams
+  firstname: John
+  birthdate: 1735-10-30
+  deathdate: 1826-07-04
+  birthplace: Braintree, Norfolk
+  birthstate: Massachusetts
+  termstart: 1797-03-04
+  termend: 1801-03-04
+  party: Federalist
+- term: 3
+  lastname: Jefferson
+  firstname: Thomas
+  birthdate: 1743-04-13
+  deathdate: 1826-07-04
+  birthplace: Albermarle County
+  birthstate: Virginia
+  termstart: 1801-03-04
+  termend: 1809-03-04
+  party: Democratic - Republican
+- term: 4
+  lastname: Madison
+  firstname: James
+  birthdate: 1751-03-16
+  deathdate: 1836-06-28
+  birthplace: Port Conway
+  birthstate: Virginia
+  termstart: 1809-03-04
+  termend: 1817-03-04
+  party: Democratic - Republican
+- term: 5
+  lastname: Monroe
+  firstname: James
+  birthdate: 1758-04-28
+  deathdate: 1831-07-04
+  birthplace: Westmoreland County
+  birthstate: Virginia
+  termstart: 1817-03-04
+  termend: 1825-03-04
+  party: Democratic - Republican
+- term: 6
+  lastname: Adams
+  firstname: John Quincy
+  birthdate: 1767-07-11
+  deathdate: 1848-02-23
+  birthplace: Braintree, Norfolk
+  birthstate: Massachusetts
+  termstart: 1825-03-04
+  termend: 1829-03-04
+  party: Democratic - Republican
+- term: 7
+  lastname: Jackson
+  firstname: Andrew
+  birthdate: 1767-03-15
+  deathdate: 1845-06-08
+  birthplace: Waxhaw
+  birthstate: South Carolina
+  termstart: 1829-03-04
+  termend: 1837-03-04
+  party: Democratic
+- term: 8
+  lastname: Van Buren
+  firstname: Martin
+  birthdate: 1782-12-05
+  deathdate: 1862-07-24
+  birthplace: Kinderhook
+  birthstate: New York
+  termstart: 1837-03-04
+  termend: 1841-03-04
+  party: Democratic
+- term: 9
+  lastname: Harrison
+  firstname: William Henry
+  birthdate: 1773-02-09
+  deathdate: 1841-04-04
+  birthplace: Berkeley
+  birthstate: Virginia
+  termstart: 1841-03-04
+  termend: 1841-04-04
+  party: Whig
+- term: 10
+  lastname: Tyler
+  firstname: John
+  birthdate: 1790-03-29
+  deathdate: 1862-01-18
+  birthplace: Charles City County
+  birthstate: Virginia
+  termstart: 1841-04-04
+  termend: 1845-03-04
+  party: Whig
+- term: 11
+  lastname: Polk
+  firstname: James Knox
+  birthdate: 1795-11-02
+  deathdate: 1849-06-15
+  birthplace: Mecklenburg County
+  birthstate: North Carolina
+  termstart: 1845-03-04
+  termend: 1849-03-03
+  party: Democratic
+- term: 12
+  lastname: Taylor
+  firstname: Zachary
+  birthdate: 1784-11-24
+  deathdate: 1850-07-09
+  birthplace: Orange County
+  birthstate: Virginia
+  termstart: 1849-03-05
+  termend: 1850-07-09
+  party: Whig
+- term: 13
+  lastname: Fillmore
+  firstname: Millard
+  birthdate: 1800-01-07
+  deathdate: 1874-03-08
+  birthplace: Cayuga County
+  birthstate: New York
+  termstart: 1850-07-09
+  termend: 1853-03-04
+  party: Whig
+- term: 14
+  lastname: Pierce
+  firstname: Franklin
+  birthdate: 1804-11-23
+  deathdate: 1869-10-08
+  birthplace: Hillsboro
+  birthstate: New Hampshire
+  termstart: 1853-03-04
+  termend: 1857-03-04
+  party: Democratic
+- term: 15
+  lastname: Buchanan
+  firstname: James
+  birthdate: 1791-04-23
+  deathdate: 1868-06-01
+  birthplace: Cove Gap
+  birthstate: Pennsylvania
+  termstart: 1857-03-04
+  termend: 1861-03-04
+  party: Democratic
+- term: 16
+  lastname: Lincoln
+  firstname: Abraham
+  birthdate: 1809-02-12
+  deathdate: 1865-04-15
+  birthplace: Hodgenville, Hardin County
+  birthstate: Kentucky
+  termstart: 1861-03-04
+  termend: 1865-04-15
+  party: Republican
+- term: 17
+  lastname: Johnson
+  firstname: Andrew
+  birthdate: 1808-12-29
+  deathdate: 1875-07-31
+  birthplace: Raleigh
+  birthstate: North Carolina
+  termstart: 1865-04-15
+  termend: 1869-03-04
+  party: Republican
+- term: 18
+  lastname: Grant
+  firstname: Ulysses Simpson
+  birthdate: 1822-04-27
+  deathdate: 1885-07-23
+  birthplace: Point Pleasant
+  birthstate: Ohio
+  termstart: 1869-03-04
+  termend: 1877-03-04
+  party: Republican
+- term: 19
+  lastname: Hayes
+  firstname: Rutherford Birchard
+  birthdate: 1822-10-04
+  deathdate: 1893-01-17
+  birthplace: Delaware
+  birthstate: Ohio
+  termstart: 1877-03-04
+  termend: 1881-03-04
+  party: Republican
+- term: 20
+  lastname: Garfield
+  firstname: James Abram
+  birthdate: 1831-11-19
+  deathdate: 1881-09-19
+  birthplace: Orange, Cuyahoga County
+  birthstate: Ohio
+  termstart: 1881-03-04
+  termend: 1881-09-19
+  party: Republican
+- term: 21
+  lastname: Arthur
+  firstname: Chester Alan
+  birthdate: 1829-10-05
+  deathdate: 1886-11-18
+  birthplace: Fairfield
+  birthstate: Vermont
+  termstart: 1881-09-20
+  termend: 1885-03-04
+  party: Republican
+- term: 22
+  lastname: Cleveland
+  firstname: Grover
+  birthdate: 1837-03-18
+  deathdate: 1908-06-24
+  birthplace: Caldwell
+  birthstate: New Jersey
+  termstart: 1885-03-04
+  termend: 1889-03-04
+  party: Democratic
+- term: 23
+  lastname: Harrison
+  firstname: Benjamin
+  birthdate: 1833-08-20
+  deathdate: 1901-03-13
+  birthplace: North Bend
+  birthstate: Ohio
+  termstart: 1889-03-04
+  termend: 1893-03-04
+  party: Republican
+- term: 24
+  lastname: Cleveland
+  firstname: Grover
+  birthdate: 1837-03-18
+  deathdate: 1908-06-24
+  birthplace: Caldwell
+  birthstate: New Jersey
+  termstart: 1893-03-04
+  termend: 1897-03-04
+  party: Democratic
+- term: 25
+  lastname: McKinley
+  firstname: William
+  birthdate: 1843-01-29
+  deathdate: 1901-09-14
+  birthplace: Niles
+  birthstate: Ohio
+  termstart: 1897-03-04
+  termend: 1901-09-14
+  party: Republican
+- term: 26
+  lastname: Roosevelt
+  firstname: Theodore
+  birthdate: 1858-10-27
+  deathdate: 1919-01-06
+  birthplace: New York City
+  birthstate: New York
+  termstart: 1901-09-14
+  termend: 1909-03-04
+  party: Republican
+- term: 27
+  lastname: Taft
+  firstname: William Howard
+  birthdate: 1857-09-15
+  deathdate: 1930-03-08
+  birthplace: Cincinnati
+  birthstate: Ohio
+  termstart: 1909-03-04
+  termend: 1913-03-04
+  party: Republican
+- term: 28
+  lastname: Wilson
+  firstname: Woodrow
+  birthdate: 1856-12-28
+  deathdate: 1924-02-03
+  birthplace: Staunton
+  birthstate: Virginia
+  termstart: 1913-03-04
+  termend: 1921-03-04
+  party: Democratic
+- term: 29
+  lastname: Harding
+  firstname: Warren Gamaliel
+  birthdate: 1865-11-02
+  deathdate: 1923-08-02
+  birthplace: Blooming Grove
+  birthstate: Ohio
+  termstart: 1921-03-04
+  termend: 1923-08-02
+  party: Republican
+- term: 30
+  lastname: Coolidge
+  firstname: Calvin
+  birthdate: 1872-07-04
+  deathdate: 1933-01-05
+  birthplace: Plymouth
+  birthstate: Vermont
+  termstart: 1923-08-03
+  termend: 1929-03-04
+  party: Republican
+- term: 31
+  lastname: Hoover
+  firstname: Herbert Clark
+  birthdate: 1874-08-10
+  deathdate: 1964-10-20
+  birthplace: West Branch
+  birthstate: Iowa
+  termstart: 1929-03-04
+  termend: 1933-03-04
+  party: Republican
+- term: 32
+  lastname: Roosevelt
+  firstname: Franklin Delano
+  birthdate: 1882-01-30
+  deathdate: 1945-04-12
+  birthplace: Hyde Park
+  birthstate: New York
+  termstart: 1933-03-04
+  termend: 1945-04-12
+  party: Democratic
+- term: 33
+  lastname: Truman
+  firstname: Harry S.
+  birthdate: 1884-05-08
+  deathdate: 1972-12-26
+  birthplace: Lamar
+  birthstate: Missouri
+  termstart: 1945-04-12
+  termend: 1953-01-20
+  party: Democratic
+- term: 34
+  lastname: Eisenhower
+  firstname: Dwight David
+  birthdate: 1890-10-14
+  deathdate: 1969-03-28
+  birthplace: Denison
+  birthstate: Texas
+  termstart: 1953-01-20
+  termend: 1961-01-20
+  party: Republican
+- term: 35
+  lastname: Kennedy
+  firstname: John Fitzgerald
+  birthdate: 1917-05-29
+  deathdate: 1963-11-22
+  birthplace: Brookline
+  birthstate: Massachusetts
+  termstart: 1961-01-20
+  termend: 1963-11-22
+  party: Democratic
+- term: 36
+  lastname: Johnson
+  firstname: Lyndon Baines
+  birthdate: 1908-08-27
+  deathdate: 1973-01-22
+  birthplace: near Stonewall
+  birthstate: Texas
+  termstart: 1963-11-22
+  termend: 1969-01-20
+  party: Democratic
+- term: 37
+  lastname: Nixon
+  firstname: Richard Milhous
+  birthdate: 1913-01-09
+  deathdate: 1994-04-22
+  birthplace: Yorba Linda
+  birthstate: California
+  termstart: 1969-01-20
+  termend: 1974-08-09
+  party: Republican
+- term: 38
+  lastname: Ford
+  firstname: Gerald Rudolph
+  birthdate: 1913-07-14
+  deathdate: 2006-12-26
+  birthplace: Omaha
+  birthstate: Nebraska
+  termstart: 1974-08-09
+  termend: 1977-01-20
+  party: Republican
+- term: 39
+  lastname: Carter
+  firstname: James Earl 'Jimmy'
+  birthdate: 1924-10-01
+  deathdate: NONE
+  birthplace: Plains
+  birthstate: Georgia
+  termstart: 1977-01-20
+  termend: 1981-01-20
+  party: Democratic
+- term: 40
+  lastname: Reagan
+  firstname: Ronald Wilson
+  birthdate: 1911-02-06
+  deathdate: 2004-06-05
+  birthplace: Tampico
+  birthstate: Illinois
+  termstart: 1981-01-20
+  termend: 1989-01-20
+  party: Republican
+- term: 41
+  lastname: Bush
+  firstname: George Herbert Walker
+  birthdate: 1924-06-12
+  deathdate: None
+  birthplace: Milton
+  birthstate: Massachusetts
+  termstart: 1989-01-20
+  termend: 1993-01-20
+  party: Republican
+- term: 42
+  lastname: Clinton
+  firstname: William Jefferson 'Bill'
+  birthdate: 1946-08-19
+  deathdate: None
+  birthplace: Hope
+  birthstate: Arkansas
+  termstart: 1993-01-20
+  termend: 2001-01-20
+  party: Democratic
+- term: 43
+  lastname: Bush
+  firstname: George Walker
+  birthdate: 1946-07-06
+  deathdate: None
+  birthplace: New Haven
+  birthstate: Connecticut
+  termstart: 2001-01-20
+  termend: 2009-01-20
+  party: Republican
+- term: 44
+  lastname: Obama
+  firstname: Barack Hussein
+  birthdate: 1961-08-04
+  deathdate: None
+  birthplace: Honolulu
+  birthstate: Hawaii
+  termstart: 2009-01-20
+  termend: 2017-01-20
+  party: Democratic
+- term: 45
+  lastname: Trump
+  firstname: Donald John
+  birthdate: 1946-06-14
+  deathdate: None
+  birthplace: Queens, NYC
+  birthstate: New York
+  termstart: 2017-01-20
+  termend: 2021-01-20
+  party: Republican
+- term: 46
+  lastname: Biden
+  firstname: Joseph Robinette
+  birthdate: 1942-11-10
+  deathdate: None
+  birthplace: Scranton
+  birthstate: Pennsylvania
+  termstart: 2021-01-20
+  termend: 2025-01-20
+  party: Democratic
+- term: 47
+  lastname: Trump
+  firstname: Donald John
+  birthdate: 1946-06-14
+  deathdate: None
+  birthplace: Queens, NYC
+  birthstate: New York
+  termstart: 2025-01-20
+  termend: None
+  party: Republican

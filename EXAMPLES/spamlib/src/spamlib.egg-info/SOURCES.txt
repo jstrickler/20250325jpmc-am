@@ -1,0 +1,10 @@
+README.rst
+pyproject.toml
+setup.cfg
+setup.py
+src/spamlib/spam.py
+src/spamlib.egg-info/PKG-INFO
+src/spamlib.egg-info/SOURCES.txt
+src/spamlib.egg-info/dependency_links.txt
+src/spamlib.egg-info/top_level.txt
+tests/test_spam.py

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cmap>
+    <people>
+        <person org="Linux">Linux Torvalds</person>
+        <person org="Python">Guido van Rossum</person>
+        <person org="Perl">Larry Wall</person>
+        <person org="Microsoft">Bill Gates</person>
+        <person org="Facebook">Mark Zuckerberg</person>
+    </people>
+    <address>
+        <street class="streetname">233 S Wacker Dr</street>
+        <suite class="number">800</suite>
+        <city>Chicago</city>
+        <state>IL</state>
+        <zip class="number">60606</zip>
+    </address>
+</cmap>

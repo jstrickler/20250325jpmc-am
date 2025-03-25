@@ -1,0 +1,42 @@
+
+---
+- name: Beatles
+  genre: rock
+  members:
+    - John Lennon
+    - Paul McCartney
+    - Ringo Starr
+    - George Harrison
+
+- name: Rolling Stones
+  genre: rock
+  members:
+    - Mick Jagger
+    - Keith Emerson
+    - Ronnie Wood
+    - Charlie Watts
+
+- name: Flecktones
+  genre: jazz
+  members:
+    - Bela Fleck
+    - Victor Wooten
+    - Jeff Coffin
+    - Futureman
+    - Howard Levy
+
+- name: King Crimson
+  genre: progressive rock
+  members:
+    - Robert Fripp
+    - Adrian Belew
+    - Mel Collins
+    - Tony Levin
+    - Pat Mastelotto
+    - Gavin Harrison
+    - Jakko Jakszyk
+    - Jeremy Stacey
+    - Chris Gibson
+
+
+  
