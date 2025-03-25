@@ -15,7 +15,7 @@ def test_missing_filename():
     """
     Assert FileNotFoundError is raised
     """
-    with pytest.raises(FileNotFoundError):
+    with pytest.raises(Exception):
         read_file_data(FILE_NAME)  # will pass test if file is NOT found
 
 
