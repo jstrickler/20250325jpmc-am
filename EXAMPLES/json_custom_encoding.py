@@ -21,11 +21,13 @@ parrots = [  # list of Parrot objects
 ]
 
 def encode(obj):  # custom JSON encoder function
-    if isinstance(obj, date):  # check for date object
-        return obj.ctime()  # convert date to string
-    elif isinstance(obj, Parrot):  # check for Parrot object
-        return {'name': obj.name, 'color': obj.color}  # convert Parrot to dictionary
-    return obj  # if not processed, return object for JSON to parse with default parser
+    match obj: # SPM - structural pattern matching
+        case date():
+            return obj.ctime()  # convert date to string
+        case Parrot(): # check for Parrot object
+            return {'name': obj.name, 'color': obj.color}  # convert Parrot to dictionary
+        case _: 
+            return obj  # if not processed, return object for JSON to parse with default parser
 
 
 data = {  # dictionary of arbitrary data

@@ -2,7 +2,8 @@
 Subjects for testing
 """
 import re
-from hamlib import ham  
+from hamlib import ham
+from datetime import datetime
 
 class Spam():
     def __init__(self, number):
@@ -12,6 +13,9 @@ class Spam():
     def value(self):
         return self._value
 
+    @property
+    def current_time(self):
+        return datetime.now()
 
 class SpamSearch():  # System under test
     def __init__(self, search_string, target_string):

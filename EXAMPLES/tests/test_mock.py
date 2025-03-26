@@ -1,6 +1,11 @@
 import pytest
 import spamlib
 from spamlib.spam import Spam
+from datetime import datetime
+
+@pytest.fixture
+def datetime_now():
+    return datetime.now()
 
 @pytest.fixture
 def ham_value():
@@ -16,3 +21,11 @@ def test_spam_calls_ham(mocker, ham_value, ham_result):
     s = Spam(ham_value)  # Create instance of Spam, which calls ham()
     assert s.value == ham_result
     assert spamlib.spam.ham.calledoncewith(ham_value)
+
+def test_spam_has_current_time(mocker, datetime_now):
+    mock_datetime = mocker.patch(
+        "spamlib.spam.datetime",
+    )
+    mock_datetime.now.return_value = datetime_now
+    s = Spam(10)
+    assert s.current_time == datetime_now

@@ -1,4 +1,3 @@
-import pytest
 
 def test_stdout():  # unit test that writes to STDOUT
     print("WHOOPEE", end=" ")

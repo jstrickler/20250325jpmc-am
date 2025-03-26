@@ -2,7 +2,12 @@ import inspect
 import geometry
 from carddeck import CardDeck
 
+
+def _PI():
+    return 3.14
+
 deck = CardDeck("Leonard")
+
 
 things = (
     geometry,
@@ -38,3 +43,32 @@ print()
 
 # get frame (function call stack) info
 print("Current frame:", inspect.getframeinfo(inspect.currentframe()))
+
+print(f"{inspect.getfile(geometry) = }")
+import re
+print(f"{inspect.getfile(re) = }")
+
+Dog = type("Dog", (), {'bark': lambda self: print("woof, woof")})
+
+print(f"{dir(Dog) = }")
+
+bark_obj = getattr(Dog, 'bark')
+print(f"{bark_obj = }")
+print(f"{type(bark_obj) = }")
+print(f"{inspect.ismethod(bark_obj) = }")
+
+for attr in dir(Dog):
+    print(attr, getattr(Dog, attr))
+
+class Cat:
+    def meow(self):
+        print("meooowwwww")
+
+d = Dog()
+c = Cat()
+
+for animal in d, c:
+    if hasattr(animal, 'bark'):
+        bark_method = getattr(animal, 'bark')
+        if inspect.ismethod(bark_method):
+            bark_method()
