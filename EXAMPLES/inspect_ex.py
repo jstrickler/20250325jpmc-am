@@ -48,6 +48,7 @@ print(f"{inspect.getfile(geometry) = }")
 import re
 print(f"{inspect.getfile(re) = }")
 
+# type(class-name, base-classes, class-attributes)
 Dog = type("Dog", (), {'bark': lambda self: print("woof, woof")})
 
 print(f"{dir(Dog) = }")

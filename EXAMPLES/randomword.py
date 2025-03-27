@@ -13,7 +13,14 @@ class RandomWord():
         """
         return random.choice(self._word_list)
 
+    def get_uppercase_word(self):
+        return self.__call__().upper()
+    
 if __name__ == '__main__':
+
     w = RandomWord()
     for _ in range(10):
         print(w())
+    print(w.get_uppercase_word())
+    print(RandomWord().get_uppercase_word())
+    print(RandomWord()())

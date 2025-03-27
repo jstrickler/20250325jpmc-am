@@ -15,6 +15,11 @@ class MemoryChecker():
     def __call__(self):
         return self.process.memory_info().rss  # Return memory use for PID
 
+    def hello(self):
+        print("HELLO")
+
 if __name__ == '__main__':
     mc = MemoryChecker()
+    # mc.get_memory()
     print(mc())  # can call at any time to get current memory use
+    mc.hello()

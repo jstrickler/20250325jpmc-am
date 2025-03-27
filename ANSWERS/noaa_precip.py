@@ -21,7 +21,7 @@ response = session.get(
         'startdate': '1970-01-01',
         'enddate': '1970-12-31',
     },
-    timeout=10,
+    timeout=(30, 300),
 )
 
-pprint(response.json())
+pprint(response.text)

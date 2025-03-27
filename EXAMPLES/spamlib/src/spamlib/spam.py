@@ -16,6 +16,10 @@ class Spam():
     @property
     def current_time(self):
         return datetime.now()
+    
+    # @property
+    # def year(self):
+    #     return datetime.today()
 
 class SpamSearch():  # System under test
     def __init__(self, search_string, target_string):
