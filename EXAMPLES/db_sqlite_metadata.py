@@ -21,6 +21,7 @@ def show_metadata(cursor):
     print()
     column_names = [column_data[0] for column_data in cursor.description]
     print(f"{column_names = }")
+    print(sqlite3.constants.fie)
 
 if __name__ == '__main__':
     main()
