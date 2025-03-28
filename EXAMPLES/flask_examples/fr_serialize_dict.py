@@ -50,9 +50,13 @@ class Presidents(Resource):  # Resource which expects unique ID (for GET, PUT, P
         if invalid_term_number(termnum):  # Check for invalid term number
             raise ValueError(f"Invalid term number: {termnum}")
 
-        p = PRESIDENTS['presidents'][termnum - 1]
+        index = termnum - 1
+        if len(PRESIDENTS['presidents'] < index):
+            p = PRESIDENTS['presidents'][termnum - 1]
+        else:
+            raise InvalidAPIRequest("term out of range")
         return p  # Return dictionary of presidents; it is marshalled (serialized) into a dictionary (and later converted to JSON)
-
+    
     def put(self, termnum):  # Implement PUT handler
         """Replace one record"""
         if invalid_term_number(termnum):

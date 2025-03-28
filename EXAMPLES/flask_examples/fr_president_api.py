@@ -7,6 +7,7 @@ from sqlalchemy.orm import scoped_session, sessionmaker
 app = Flask(__name__)
 api = Api(app)
 
+#  package://user:password@server/...
 CONN_STR ='sqlite:///presidents.db'
 
 engine = create_engine(CONN_STR, echo=False)
@@ -53,12 +54,14 @@ class Presidents(Resource):
         """Retrieve one record"""
         try:
             p = session.query(President).filter(President.termnum == termnum).one()
+            print(session.query(President).filter(President.termnum == termnum))
         except:
             raise ValueError("Invalid term number")
         return p
 
     def put(self, termnum):
         """Replace one record"""
+
         if invalid_term_number(termnum):
             raise ValueError("Invalid term number")
         return {}
